@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+ssd_inception_v2_coco_2017_11_17/
+ssd_mobilenet_v1_coco_2017_11_17/
